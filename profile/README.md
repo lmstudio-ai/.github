@@ -1,7 +1,7 @@
 
 <br>
 <pre align="center">
-
+  <p>We are hiring! Come work on LM Studio. See <a href="https://lmstudio.ai/jobs.html">jobs page</a>.</p>
   <div align="center">
   <img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="60px"/>
 </div>
