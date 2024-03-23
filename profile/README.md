@@ -10,11 +10,8 @@
   \ \ \____  \ \ \-./\ \     \ \___  \  \/_/\ \/ \ \ \_\ \  \ \ \/\ \ \ \ \  \ \ \/\ \  
    \ \_____\  \ \_\ \ \_\     \/\_____\    \ \_\  \ \_____\  \ \____-  \ \_\  \ \_____\ 
     \/_____/   \/_/  \/_/      \/_____/     \/_/   \/_____/   \/____/   \/_/   \/_____/ 
-  <h3>Run local/open LLMs on your computer!</h3>
-  Download the Mac / Windows app from <a href="https://lmstudio.ai">https://lmstudio.ai</a>
-  <a href="https://discord.gg/aPQfnNkxGC">
-      <img alt="Discord" src="https://img.shields.io/discord/1110598183144399058?logo=discord&style=flat&logoColor=white">
-  </a>
+  <h3>Run LLMs on your computer.</h3>
+  Download the Mac / Windows / Linux app from <a href="https://lmstudio.ai">https://lmstudio.ai</a>
+  <br>
+  <a href="https://discord.gg/aPQfnNkxGC"><img alt="Discord" src="https://img.shields.io/discord/1110598183144399058?logo=discord&style=flat&logoColor=white"></a>
 </pre>
-
-
