@@ -20,3 +20,4 @@
 - Blog: https://lmstudio.ai/blog
 - Download LM Studio: https://lmstudio.ai (Mac/Windows/Linux)
 - Install `lms`: [https://github.com/lmstudio-ai/lms](https://github.com/lmstudio-ai/lms?tab=readme-ov-file#installation)
+- Discuss developing with LM Studio, lms, and lmstudio.js in [#dev-chat](https://discord.gg/pwQWNhmQTY) on Discord.
